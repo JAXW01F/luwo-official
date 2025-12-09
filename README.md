@@ -9,6 +9,35 @@ The LUWO Golden Curve (JGC) is a unified geometric framework combining phi-stret
 non-Euclidean unit-distance curves, and nature-inspired propagation patterns. This release spotlights music production
 and motion-graphics workflows—showing enough to onboard collaborators without exposing the full internal IP.
 
+🔒 LUWO Golden Curve (JGC) – Public-Safe License Notice
+
+Copyright © 2025 Jax Wolf (JAXW01F).
+All rights reserved.
+
+The LUWO Golden Curve (JGC), including its mathematical descriptions, geometric constructions, audio/visual modulation methods, visual workflows, curve variants, spiral logic, and associated terminology, is protected intellectual property of the author.
+
+This public-safe release grants permission to:
+View the published HTML artifacts and accompanying documentation
+Use the interactive demos for educational, artistic, or exploratory purposes
+Reference the publicly visible portions of JGC for academic or descriptive writing with attribution
+Collaborate on the public layer as provided in this repository
+
+The following are NOT permitted without prior written authorization:
+
+Reverse-engineering, extracting, or reconstructing internal algorithms, automation systems, private geometric solvers, or unpublished curve logic
+Commercial use or deployment of JGC-derived tools, plugins, DSP modules, or generative systems
+Redistribution of modified versions of the curve, scripts, or mathematical methods
+
+Publishing derivative works that expose deeper behavior not present in the public-safe layer
+Circumventing “noindex, nofollow” and private-access repo boundaries
+This license covers only the sanitized public showcase (e.g., luwo_landing_page.html, luwo_interactive_demo.html, and “The LUWO Golden Curve” prose document).
+All internal frameworks, higher-order constructs, automation pipelines, and proprietary geometric engines remain fully restricted and unpublished.
+
+Attribution Requirement
+If referencing the JGC publicly, credit must be provided as:
+“LUWO Golden Curve (JGC) by Jax Wolf (JAXW01F)”
+
+To request commercial usage rights, extended research access, or integration permissions, contact the author directly.
 ## 📐 Core Features
 - **Golden Ratio Engine:** All curvature behavior scales using φ (1.618…)
 - **Fractal Expansion:** Naturally recursive and scalable
